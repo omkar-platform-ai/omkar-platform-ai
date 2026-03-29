@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi 
 
-<!--
-**omkar-platform-ai/omkar-platform-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Omkar Sonawane
 
-Here are some ideas to get you started:
+Platform engineering leader exploring AI, Agentic AI, Claude Code, MCP, LangChain, LangGraph, and developer productivity workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m building
+- AI agents and workflows
+- Claude Code experiments
+- MCP servers and integrations
+- LangChain and LangGraph hands-on projects
+- AI for platform engineering use cases
+
+## Featured repositories
+- [ai-platform-playground](#)
+- [claude-code-experiments](#)
+- [mcp-server-experiments](#)
+- [ai-agents-langgraph](#)
+- [ai-usecases-enterprise](#)
+
+## Tech focus
+Python • FastAPI • LangChain • LangGraph • MCP • Claude Code • GitHub • Docker • GCP
+
+## Connect with me
+- LinkedIn: www.linkedin.com/in/oomkar-sonawane
+- Email: omkar.aiaccelerate@gmail.com
