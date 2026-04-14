@@ -7,6 +7,8 @@ Platform engineering leader exploring AI, Agentic AI, Claude Code, MCP, LangChai
 ## What I’m building
 - AI agents and workflows
 - Claude Code experiments
+- Google Antigravity experiments
+- Vibe coding
 - MCP servers and integrations
 - LangChain and LangGraph hands-on projects
 - AI for platform engineering use cases
