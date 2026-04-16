@@ -14,6 +14,7 @@ Platform engineering leader exploring AI, Agentic AI, Claude Code, MCP, LangChai
 - AI for platform engineering use cases
 
 ## Featured repositories
+- [gcp-dashboard-react](#)
 - [ai-platform-playground](#)
 - [claude-code-experiments](#)
 - [mcp-server-experiments](#)
